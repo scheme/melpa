@@ -1,0 +1,1 @@
+(scheme48 :repo "scheme/scheme48-mode" :fetcher github)
